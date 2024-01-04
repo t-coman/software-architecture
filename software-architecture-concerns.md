@@ -1,1 +1,22 @@
 # Software Architecture Concerns
+- Accessibility
+- Archiviability  
+- Availability
+- Configurability
+- Continuity
+- Installability
+- Legal  
+- Localization
+- Maintainability  
+- Performance
+- Portability
+- Privacy  
+- Recoverability
+- Reliability
+- Reuse  
+- Robustness
+- Scalability
+- Security  
+- Supportability
+- Upgradeability
+- Usability
