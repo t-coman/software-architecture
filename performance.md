@@ -1,7 +1,7 @@
-
+# Performance
 Performance has 2 aspects:
 - Latency - how fast does the software execute a process
-- Throughput - how many times can that procces be executed in a particular timeframe, usually 1 second.
+- Throughput - how many times can that process be executed in a particular timeframe, usually 1 second.
 ## Latency drives Throughput
 Improvements to latency brings improvements to throughput; the reverse does not apply. Furthermore, any latency improvements will enhance the efforts of throughput improvements.
 
@@ -12,4 +12,4 @@ Code level improvements are those improvements that you can only do by modifying
 ### Throughput
 
 ## Infrastructure level Improvements
-These are generally those improvements
+
