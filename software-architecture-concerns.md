@@ -8,7 +8,7 @@
 - Legal  
 - Localization
 - Maintainability  
-- [[Performance]]
+- [[performance]]
 - Portability
 - Privacy  
 - Recoverability

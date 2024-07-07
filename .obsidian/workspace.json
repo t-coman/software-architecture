@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "performance.md",
+                "file": "performance/performance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75030ddfe567ad16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "performance/sharding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "performance.md",
+                "file": "performance/performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "performance.md",
+                "file": "performance/performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,12 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "performance.md"
+                "file": "performance/performance.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,12 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "674a7d9477e802cf",
+  "active": "9e8c5c6fe1d27d65",
   "lastOpenFiles": [
     "index.md",
-    "Untitled.canvas",
+    "Untitled.md",
     "software-architecture-concerns.md",
-    "performance.md",
+    "performance/performance.md",
+    "performance/sharding.md",
+    "performance",
+    "Untitled.canvas",
     "README.md",
     "Welcome.md"
   ]
